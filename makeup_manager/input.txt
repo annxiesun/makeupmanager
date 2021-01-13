@@ -1,0 +1,6 @@
+1^Going Coconuts^12.0^Eyeshadow^8.1^2^Colourpop^default_images/p1.png
+2^Lip Sleeping Mask^26.0^Lip Balm^20.0^2^Laneige^default_images/l1.png
+3^Your Skin But Better^52.0^Concealer^30.6^4^IT Cosmetics^default_images/s1.png
+4^Tattoo Eyeliner^0.0^Eyeliner^0.0^1^KVD Vegan Beauty^default_images/e1.png
+5^Airbrush Matte Bronzer^65.0^Bronzer^16.0^1^Charlotte Tillbury^default_images/s2.png
+6^Divine Rose II Collection^170.0^Eyeshadow^130.0^4^Pat McGrath^default_images/p2.png
